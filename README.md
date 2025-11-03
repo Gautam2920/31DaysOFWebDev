@@ -17,9 +17,9 @@ It’s not just about mastering web dev , it’s about building consistency, con
 
 ## 🗓️ Progress
 
-| 🕒 Last Commit | 🧩 Tech Explored |
+| 🕒 Commit Date | 🧩 Note |
 |:---------------|:----------------|
-| | |
+| 04/11/2025 | Built a controlled React form using useState, props, and Tailwind CSS for clean, responsive styling. |
 
 ---
 
