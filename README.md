@@ -26,7 +26,7 @@ It’s not just about mastering web dev , it’s about building consistency, con
 ## ⚙️ Stack Used So Far
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="tech icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwindcss,git,github,vscode" alt="tech icons" />
 </p>
 
 ---
