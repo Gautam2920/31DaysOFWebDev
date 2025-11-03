@@ -23,8 +23,6 @@ It’s not just about mastering web dev , it’s about building consistency, con
 
 ---
 
----
-
 ## ⚙️ Stack Used So Far
 
 <p align="center">
